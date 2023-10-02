@@ -2,7 +2,7 @@
 
 # **go-strap (Coming Soon)**
 
-Hello! I'm new to Go development. Thus, **go-strap** is something I've developped (mostly for myself) to "bootstrap" Go apps for use as a back-end server for front-end web apps. It's been a good learning experience. Collaboration and usage is encouraged, subject to the [open source MIT license](https://github.com/go-strap/strap/blob/main/LICENSE). Happy coding!
+Hello! I'm new to Go development. **go-strap** is something I've developped (mostly for myself) to "bootstrap" Go apps for use as a back-end server for front-end web apps. It's been a good learning experience. Collaboration and usage is encouraged, subject to the [open source MIT license](https://github.com/go-strap/strap/blob/main/LICENSE). Happy coding!
 
 ## Features
 
@@ -13,4 +13,7 @@ Hello! I'm new to Go development. Thus, **go-strap** is something I've developpe
 - [errgroup](https://pkg.go.dev/golang.org/x/sync/errgroup) go routine synchronization
 - [os.Signal](https://pkg.go.dev/os/signal) (e.g. CTRL+C) handling
 - Graceful error handling, server shutdown, and db disconnect
-- More details to come as I actually build this thing...
+
+This project tries to adhere to the [Standard Go Project Layout](https://github.com/golang-standards/project-layout).
+
+More details to come as I actually build this thing...
